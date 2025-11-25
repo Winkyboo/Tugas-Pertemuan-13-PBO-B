@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=LoginFrame
+comment1.params=
+comment1.target=LoginFrame()
+comment2.params=
+comment2.target=java.lang.String\ getUsernameInput()
+comment3.params=
+comment3.target=java.lang.String\ getPasswordInput()
+comment4.params=
+comment4.target=void\ resetForm()
+numComments=5
